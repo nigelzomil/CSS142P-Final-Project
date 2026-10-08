@@ -1,0 +1,59 @@
+course_id,department,section,enrollment,contact_hours,required_room_type
+SIT-100,School of Information Technology,A,26,4.5,Computer Lab
+SIT-101,School of Information Technology,A,41,4.5,Computer Lab
+SIT-101,School of Information Technology,B,68,1.5,Lecture Room
+SIT-101,School of Information Technology,C,64,1.5,Lecture Room
+SIT-102,School of Information Technology,A,34,4.5,Computer Lab
+SIT-102,School of Information Technology,B,40,4.5,Computer Lab
+SIT-102,School of Information Technology,C,44,1.5,Lecture Room
+SIT-103,School of Information Technology,A,44,4.5,Computer Lab
+SIT-103,School of Information Technology,B,44,1.5,Lecture Room
+SIT-103,School of Information Technology,C,50,1.5,Lecture Room
+SIT-104,School of Information Technology,A,26,4.5,Computer Lab
+SIT-104,School of Information Technology,B,66,1.5,Lecture Room
+SIT-105,School of Information Technology,A,40,4.5,Computer Lab
+SIT-105,School of Information Technology,B,40,4.5,Computer Lab
+SIT-105,School of Information Technology,C,28,4.5,Computer Lab
+ETYSBM-106,E.T. Yuchengco School of Business Management,A,77,1.5,Lecture Room
+ETYSBM-107,E.T. Yuchengco School of Business Management,A,64,1.5,Lecture Room
+ETYSBM-107,E.T. Yuchengco School of Business Management,B,46,1.5,Lecture Room
+ETYSBM-107,E.T. Yuchengco School of Business Management,C,77,1.5,Lecture Room
+ETYSBM-108,E.T. Yuchengco School of Business Management,A,57,1.5,Lecture Room
+ETYSBM-108,E.T. Yuchengco School of Business Management,B,67,1.5,Lecture Room
+ETYSBM-108,E.T. Yuchengco School of Business Management,C,55,1.5,Lecture Room
+ETYSBM-109,E.T. Yuchengco School of Business Management,A,44,1.5,Lecture Room
+ETYSBM-109,E.T. Yuchengco School of Business Management,B,38,1.5,Lecture Room
+ETYSBM-110,E.T. Yuchengco School of Business Management,A,61,1.5,Lecture Room
+ETYSBM-110,E.T. Yuchengco School of Business Management,B,35,1.5,Lecture Room
+ETYSBM-110,E.T. Yuchengco School of Business Management,C,78,1.5,Lecture Room
+SMDA-111,School of Multimedia and Digital Arts,A,25,4.5,Multimedia Lab
+SMDA-112,School of Multimedia and Digital Arts,A,22,4.5,Multimedia Lab
+SMDA-112,School of Multimedia and Digital Arts,B,39,4.5,Multimedia Lab
+SMDA-112,School of Multimedia and Digital Arts,C,63,1.5,Lecture Room
+SMDA-113,School of Multimedia and Digital Arts,A,30,1.5,Lecture Room
+SMDA-113,School of Multimedia and Digital Arts,B,37,1.5,Lecture Room
+SMDA-114,School of Multimedia and Digital Arts,A,78,1.5,Lecture Room
+SMDA-114,School of Multimedia and Digital Arts,B,40,4.5,Multimedia Lab
+SMDA-114,School of Multimedia and Digital Arts,C,29,4.5,Multimedia Lab
+SN-115,School of Nursing,A,76,1.5,Lecture Room
+SN-116,School of Nursing,A,36,4.5,Nursing Lab
+SN-116,School of Nursing,B,62,1.5,Lecture Room
+SN-116,School of Nursing,C,70,1.5,Lecture Room
+SN-117,School of Nursing,A,62,1.5,Lecture Room
+SN-117,School of Nursing,B,39,1.5,Lecture Room
+SN-118,School of Nursing,A,64,1.5,Lecture Room
+SN-118,School of Nursing,B,63,1.5,Lecture Room
+SN-119,School of Nursing,A,61,1.5,Lecture Room
+SN-120,School of Nursing,A,31,4.5,Nursing Lab
+SN-121,School of Nursing,A,27,4.5,Nursing Lab
+SN-121,School of Nursing,B,35,1.5,Lecture Room
+SHS-122,School of Health Sciences,A,34,1.5,Lecture Room
+SHS-122,School of Health Sciences,B,64,1.5,Lecture Room
+SHS-122,School of Health Sciences,C,38,1.5,Lecture Room
+SHS-123,School of Health Sciences,A,65,1.5,Lecture Room
+SHS-123,School of Health Sciences,B,36,4.5,Science Lab
+SHS-123,School of Health Sciences,C,57,1.5,Lecture Room
+SHS-124,School of Health Sciences,A,78,1.5,Lecture Room
+SHS-125,School of Health Sciences,A,75,1.5,Lecture Room
+SHS-125,School of Health Sciences,B,41,4.5,Science Lab
+SHS-125,School of Health Sciences,C,58,1.5,Lecture Room

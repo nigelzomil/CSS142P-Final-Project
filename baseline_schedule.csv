@@ -1,0 +1,59 @@
+course_id,section,department,enrollment,contact_hours,assigned_room,room_type,room_capacity,start_time
+SIT-100,A,School of Information Technology,26,4.5,MPO207,Lecture Room,80,7.5
+SIT-101,A,School of Information Technology,41,4.5,MPO207,Lecture Room,80,16.5
+SIT-101,B,School of Information Technology,68,1.5,MPO223,Lecture Room,80,10.5
+SIT-101,C,School of Information Technology,64,1.5,Cervantes Room,Lecture Room,60,13.5
+SIT-102,A,School of Information Technology,34,4.5,MPO418,Science Lab,25,16.5
+SIT-102,B,School of Information Technology,40,4.5,MPO418,Science Lab,25,12.0
+SIT-102,C,School of Information Technology,44,1.5,MPO103,Lecture Room,80,19.5
+SIT-103,A,School of Information Technology,44,4.5,Cervantes Room,Lecture Room,60,7.5
+SIT-103,B,School of Information Technology,44,1.5,MPO621,Lecture Room,100,13.5
+SIT-103,C,School of Information Technology,50,1.5,MPO621,Lecture Room,100,13.5
+SIT-104,A,School of Information Technology,26,4.5,MPO604,Nursing Lab,25,12.0
+SIT-104,B,School of Information Technology,66,1.5,MPO223,Lecture Room,80,15.0
+SIT-105,A,School of Information Technology,40,4.5,MPO510,Lecture Room,80,12.0
+SIT-105,B,School of Information Technology,40,4.5,MPO207,Lecture Room,80,16.5
+SIT-105,C,School of Information Technology,28,4.5,MPO207,Lecture Room,80,12.0
+ETYSBM-106,A,E.T. Yuchengco School of Business Management,77,1.5,MPO215,Lecture Room,40,12.0
+ETYSBM-107,A,E.T. Yuchengco School of Business Management,64,1.5,MPO604,Nursing Lab,25,13.5
+ETYSBM-107,B,E.T. Yuchengco School of Business Management,46,1.5,Cervantes Room,Lecture Room,60,16.5
+ETYSBM-107,C,E.T. Yuchengco School of Business Management,77,1.5,MPO608,Lecture Room,40,15.0
+ETYSBM-108,A,E.T. Yuchengco School of Business Management,57,1.5,MPO217,Lecture Room,50,16.5
+ETYSBM-108,B,E.T. Yuchengco School of Business Management,67,1.5,MPO215,Lecture Room,40,13.5
+ETYSBM-108,C,E.T. Yuchengco School of Business Management,55,1.5,MPO507,Lecture Room,40,19.5
+ETYSBM-109,A,E.T. Yuchengco School of Business Management,44,1.5,MPO204,Lecture Room,100,10.5
+ETYSBM-109,B,E.T. Yuchengco School of Business Management,38,1.5,MPO510,Lecture Room,80,18.0
+ETYSBM-110,A,E.T. Yuchengco School of Business Management,61,1.5,MPO205,Lecture Room,40,7.5
+ETYSBM-110,B,E.T. Yuchengco School of Business Management,35,1.5,MPO507,Lecture Room,40,7.5
+ETYSBM-110,C,E.T. Yuchengco School of Business Management,78,1.5,MPO320,Computer Lab,40,10.5
+SMDA-111,A,School of Multimedia and Digital Arts,25,4.5,MPO320,Computer Lab,40,12.0
+SMDA-112,A,School of Multimedia and Digital Arts,22,4.5,MPO204,Lecture Room,100,7.5
+SMDA-112,B,School of Multimedia and Digital Arts,39,4.5,MPO217,Lecture Room,50,12.0
+SMDA-112,C,School of Multimedia and Digital Arts,63,1.5,MPO604,Nursing Lab,25,10.5
+SMDA-113,A,School of Multimedia and Digital Arts,30,1.5,MPO418,Science Lab,25,15.0
+SMDA-113,B,School of Multimedia and Digital Arts,37,1.5,MPO207,Lecture Room,80,10.5
+SMDA-114,A,School of Multimedia and Digital Arts,78,1.5,MPO514,Computer Lab,25,12.0
+SMDA-114,B,School of Multimedia and Digital Arts,40,4.5,MPO217,Lecture Room,50,12.0
+SMDA-114,C,School of Multimedia and Digital Arts,29,4.5,MPO223,Lecture Room,80,7.5
+SN-115,A,School of Nursing,76,1.5,MPO207,Lecture Room,80,18.0
+SN-116,A,School of Nursing,36,4.5,MPO510,Lecture Room,80,7.5
+SN-116,B,School of Nursing,62,1.5,MPO604,Nursing Lab,25,7.5
+SN-116,C,School of Nursing,70,1.5,MPO608,Lecture Room,40,9.0
+SN-117,A,School of Nursing,62,1.5,MPO204,Lecture Room,100,15.0
+SN-117,B,School of Nursing,39,1.5,MPO604,Nursing Lab,25,16.5
+SN-118,A,School of Nursing,64,1.5,MPO507,Lecture Room,40,12.0
+SN-118,B,School of Nursing,63,1.5,MPO204,Lecture Room,100,19.5
+SN-119,A,School of Nursing,61,1.5,MPO510,Lecture Room,80,12.0
+SN-120,A,School of Nursing,31,4.5,MPO604,Nursing Lab,25,12.0
+SN-121,A,School of Nursing,27,4.5,MPO207,Lecture Room,80,12.0
+SN-121,B,School of Nursing,35,1.5,MPO217,Lecture Room,50,9.0
+SHS-122,A,School of Health Sciences,34,1.5,MPO514,Computer Lab,25,15.0
+SHS-122,B,School of Health Sciences,64,1.5,MPO514,Computer Lab,25,19.5
+SHS-122,C,School of Health Sciences,38,1.5,MPO205,Lecture Room,40,10.5
+SHS-123,A,School of Health Sciences,65,1.5,Cervantes Room,Lecture Room,60,7.5
+SHS-123,B,School of Health Sciences,36,4.5,MPO621,Lecture Room,100,12.0
+SHS-123,C,School of Health Sciences,57,1.5,MPO205,Lecture Room,40,10.5
+SHS-124,A,School of Health Sciences,78,1.5,MPO217,Lecture Room,50,19.5
+SHS-125,A,School of Health Sciences,75,1.5,MPO608,Lecture Room,40,13.5
+SHS-125,B,School of Health Sciences,41,4.5,MPO514,Computer Lab,25,12.0
+SHS-125,C,School of Health Sciences,58,1.5,MPO223,Lecture Room,80,18.0
